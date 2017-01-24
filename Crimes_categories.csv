@@ -1,0 +1,87 @@
+detail2;Cat2
+Alkohollagen;LOB
+Anträffad död;Mord_och_drap
+Anträffat gods;Stold_snatteri
+Arbetsplatsolycka;Other
+Bedrägeri;Other
+Bombhot;Organiserad_brottslighet
+Brand;Klotter_skadegorelse
+Brand automatlarm;Klotter_skadegorelse
+Bråk;Vald_misshandel
+Detonation;Other
+Djur skadat/omhändertaget;Other
+Ekobrott;Other
+EventCategory;Other
+Farligt föremål, misstänkt;Other
+Fjällräddning;Other
+Fylleri/LOB;LOB
+Försvunnen person;Other
+Häleri;Stold_snatteri
+Inbrott;Bostadsinbrott
+Inbrott, försök;Bostadsinbrott
+Knivlagen;Knivbrott
+Kontroll person/fordon;Rattfylleri_traffikbrott
+Lagen om hundar och katter;Other
+Larm Inbrott;Bostadsinbrott
+Larm Överfall;Vald_misshandel
+Miljöbrott;Other
+Misshandel;Vald_misshandel
+Misshandel, grov;Vald_misshandel
+Misstänkt farligt föremål;Other
+Mord/dråp;Mord_och_drap
+Mord/dråp, försök;Mord_och_drap
+Motorfordon, anträffat stulet;Stold_snatteri
+Motorfordon, stöld;Stold_snatteri
+Narkotikabrott;Narkotika
+Ofog barn/ungdom;Ungdomsbrottslighet
+Ofredande/förargelse;Other
+Olaga frihetsberövande;Other
+Olaga hot;Other
+Olaga intrång/hemfridsbrott;Bostadsinbrott
+Olovlig körning;Rattfylleri_traffikbrott
+Ordningslagen;Other
+Polisinsats/kommendering;Other
+Rattfylleri;Rattfylleri_traffikbrott
+Rån;Organiserad_brottslighet
+Rån väpnat;Organiserad_brottslighet
+Rån övrigt;Organiserad_brottslighet
+Rån, försök;Organiserad_brottslighet
+Räddningsinsats;Other
+Sammanfattning dag;Other
+Sammanfattning dygn;Other
+Sammanfattning eftermiddag;Other
+Sammanfattning förmiddag;Other
+Sammanfattning helg;Other
+Sammanfattning kväll;Other
+Sammanfattning kväll och natt;Other
+Sammanfattning natt;Other
+Sammanfattning vecka;Other
+Sedlighetsbrott;Other
+Sjukdom/olycksfall;Other
+Sjölagen;Rattfylleri_traffikbrott
+Skadegörelse;Klotter_skadegorelse
+Skottlossning;Vapenbrott
+Skottlossning, misstänkt;Vapenbrott
+Snatteri;Stold_snatteri
+Spridning smittsamma kemikalier;Other
+Stockholms län;Other
+Stöld;Stold_snatteri
+Stöld, försök;Stold_snatteri
+Stöld/inbrott;Stold_snatteri
+Tillfälligt obemannat;Other
+Trafikbrott;Rattfylleri_traffikbrott
+Trafikhinder;Rattfylleri_traffikbrott
+Trafikkontroll;Other
+Trafikolycka;Rattfylleri_traffikbrott
+Trafikolycka, personskada;Rattfylleri_traffikbrott
+Trafikolycka, singel;Rattfylleri_traffikbrott
+Trafikolycka, smitning från;Rattfylleri_traffikbrott
+Trafikolycka, vilt;Rattfylleri_traffikbrott
+Uppdatering;Other
+Utlänningslagen;Other
+Vapenlagen;Vapenbrott
+Varningslarm/haveri;Other
+Våld/hot mot tjänsteman;Vald_misshandel
+Våldtäkt;Valdtakt_sexualbrott
+Våldtäkt, försök;Valdtakt_sexualbrott
+Övrigt;Other
